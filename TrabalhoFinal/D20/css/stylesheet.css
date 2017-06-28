@@ -1,0 +1,77 @@
+body {
+    margin: 0 0 60px;
+    /* bottom = footer height */
+	width: 100%;
+	
+}
+
+a.button {
+    
+	color: initial;
+    text-decoration: none;
+}
+
+a.menu {
+	
+	color: initial;
+	text-decoration: none;
+}
+
+#conteudo-esquerda {
+	
+	
+	width: 50%;
+	float: left;
+}
+
+#lateral-direita {
+	
+	width: 50%;
+	float: right;
+	
+}
+
+#index-conteudo-esquerda {
+	
+	width: 70%;
+	float: left;
+}
+
+#index-lateral-direita {
+	
+	width: 30%;
+	float: right;
+	
+}
+
+#conta-esquerda {
+	
+	width: 20%;
+	float: left;
+}
+
+#conta-conteudo {
+	
+	width: 80%;
+	float: right;
+}
+
+#conteudo {
+	
+	float: left;
+	width: 100%;
+	
+}
+
+#cabecalho {
+	margin: auto;
+	width: 100%;
+	
+}
+
+#rodape {
+	margin: auto;
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+}	
